@@ -1,3 +1,4 @@
 snowflake-snowpark-python
 streamlit==1.31.1
 snowflake-connector-python
+requests
